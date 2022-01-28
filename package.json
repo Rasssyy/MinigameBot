@@ -1,0 +1,42 @@
+{
+  "name": "minigames",
+  "version": "1.0.0",
+  "description": "A Discord MiniGames Bot",
+  "main": "index.js",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "ascii-table": "^0.0.9",
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord.js": "^12.2.0",
+    "djs-games": "^1.5.0",
+    "event-target-shim": "^5.0.1",
+    "mime-db": "^1.44.0",
+    "mime-types": "^2.1.27",
+    "node-fetch": "^2.6.0",
+    "prism-media": "^1.2.2",
+    "setimmediate": "^1.0.5",
+    "tweetnacl": "^1.0.3",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minigames",
+    "discordbot",
+    "ytt"
+  ],
+  "author": "KabirSingh8148",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker/issues"
+  },
+  "homepage": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker#readme"
+}
