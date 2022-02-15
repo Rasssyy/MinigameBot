@@ -24,6 +24,6 @@
 Copyright 2021 © Cozmo.gg All RIghts are Reserved 
 
 **NOTE
-`` Please note that repl.it is not really a stable host as well as glitch, keeping that in mind I would like to tell you that you may consider hosting somewhere else or you can Direct Message No Name#8232 on Discord and I will provide you a host for boosting our server! ``**
+`` Please note that repl.it is not really a stable host as well as glitch, keeping that in mind I would like to tell you that you may consider hosting somewhere else or you can Direct Message Uwu#1729 on Discord and I will provide you a host for boosting our server! ``**
 # Host On Repl.it
 [![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://repl.it/github/Cozmo-gg/MinigameBot)
